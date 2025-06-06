@@ -36,8 +36,6 @@ RAG-Pipeline/
 ├── vectorstore/                 # FAISS index stored here
 ├── .env                         # API keys (Groq/OpenAI)
 ├── .gitignore
-├── Dockerfile
-├── docker-compose.yml
 ├── requirements.txt
 └── README.md
 
