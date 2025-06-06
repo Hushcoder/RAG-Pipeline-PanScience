@@ -13,3 +13,5 @@ python-docx
 mysql-connector-python
 SQLAlchemy
 pymysql
+tiktoken
+sentence-transformers
