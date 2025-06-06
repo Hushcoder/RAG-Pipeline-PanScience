@@ -2,7 +2,8 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker 
 from sqlalchemy.ext.declarative import declarative_base 
 
-URL_DATABASE = 'mysql+pymysql://root:Vishal%40mysql123@localhost:3306/RagApplication' 
+# Enter your database url
+URL_DATABASE = 'mysql+pymysql://<user>:<password>@localhost:3306/RagApplication'
 
 #engine created 
 engine = create_engine(URL_DATABASE)
