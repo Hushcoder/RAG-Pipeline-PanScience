@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+openai
+streamlit
+python-dotenv
+langchain
+langchain-community
+unstructured
+PyPDF2
+faiss-cpu
+python-docx
+mysql-connector-python
+SQLAlchemy
+pymysql
+tiktoken
+sentence-transformers
